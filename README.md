@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/xyzHenrique/xyzHenrique/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ tackle significant challenges using technology. <br><br> From backend development with Flask and Django to frontend design with React, I am passionate about exploring new concepts and turning them into high-quality solutions. Currently, I see myself as a 🚀 beginner-level full-stack developer, dedicated to crafting innovative web apps. 🌐💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
