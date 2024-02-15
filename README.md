@@ -4,8 +4,7 @@
 <p align="center">I ❤️ tackle significant challenges using technology. <br><br> From backend development with Flask and Django to frontend design with React, I am passionate about exploring new concepts and turning them into high-quality solutions. Currently, I see myself as a 🚀 beginner-level full-stack developer, dedicated to crafting innovative web apps. 🌐💻</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
- </div>
+</div>
  
  &nbsp;
  &nbsp;
